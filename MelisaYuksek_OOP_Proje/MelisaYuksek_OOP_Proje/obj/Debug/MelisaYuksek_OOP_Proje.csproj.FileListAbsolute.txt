@@ -1,0 +1,13 @@
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\bin\Debug\MelisaYuksek_OOP_Proje.exe.config
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\bin\Debug\MelisaYuksek_OOP_Proje.exe
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\bin\Debug\MelisaYuksek_OOP_Proje.pdb
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.csproj.AssemblyReference.cache
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.Properties.Resources.resources
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.csproj.GenerateResource.cache
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.exe
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.pdb
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.ClientForm.resources
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.HomeForm.resources
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.StylistForm.resources
+C:\Users\MELİSA\Source\Repos\MelisaYuksek_OOP_Proje\MelisaYuksek_OOP_Proje\obj\Debug\MelisaYuksek_OOP_Proje.AppointmentForm.resources
